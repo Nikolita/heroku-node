@@ -1,0 +1,8 @@
+- public/
+----- css/
+---------- style.css
+- views/
+---------- index.ejs
+- .gitignore
+- package.json
+- server.js
